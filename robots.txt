@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onestar-rescue.github.io/sitemap.xml
